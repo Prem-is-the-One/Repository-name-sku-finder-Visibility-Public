@@ -1,0 +1,3994 @@
+{
+  "meta": {
+    "generated_at": "2026-09-14T19:01:54.008073+00:00",
+    "source_file": "SKU Master.xlsx",
+    "sheet": "Sheet1",
+    "record_count": 664
+  },
+  "rows": [
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 2
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Wall Pack/Edin Semicutoff Wallpack/TDS/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 3
+    },
+    {
+      "SKU Number": 662187479033,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/Emergency LED Driver 18W.pdf",
+      "__images": [],
+      "__row_number": 4
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear High Bay/Lineo Linear High Bay/TDS/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 5
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Kroger/Upstar_UHB_100W150W200W240W_White_TDS.pdf",
+      "__images": [],
+      "__row_number": 6
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 7
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 8
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 9
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 10
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/4FT/TDS/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 11
+    },
+    {
+      "SKU Number": 662187487793,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/2FT/TDS/Nevo_VTL_2FT_15W20W25W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 12
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/4FT/TDS/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 13
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/8FT/TDS/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 14
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/8FT/TDS/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 15
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear%20Low%20Bay/Apex%20Linear%20Low%20Bay/8FT/TDS/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 16
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear%20High%20Bay/Lineo%20Linear%20High%20Bay/TDS/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 17
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation%20Specs%202026/Kroger/Upstar_UHB_100W150W200W240W_White_TDS.pdf",
+      "__images": [],
+      "__row_number": 18
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 19
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 20
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 21
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20AT/TDS/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 22
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear%20Low%20Bay/Apex%20Linear%20Low%20Bay/4FT/TDS/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 23
+    },
+    {
+      "SKU Number": 662187487793,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor%20Tight%20Light/Nevo%20Vapor%20Tight%20Light%20CCT%20&%20Power%20Selectable/2FT/TDS/Nevo_VTL_2FT_15W20W25W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 24
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor%20Tight%20Light/Nevo%20Vapor%20Tight%20Light%20CCT%20&%20Power%20Selectable/4FT/TDS/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 25
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Vapor%20Tight%20Light/Nevo%20Vapor%20Tight%20Light%20CCT%20&%20Power%20Selectable/8FT/TDS/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 26
+    },
+    {
+      "SKU Number": 662187489049,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Industrial/Canopy Lights/Canolux Gas Station Canopy Light/TDS/Canolux_GSCL_100W120W150W_TDS.pdf",
+      "__images": [],
+      "__row_number": 27
+    },
+    {
+      "SKU Number": 662187489049,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Industrial/Canopy%20Lights/Canolux%20Gas%20Station%20Canopy%20Light/TDS/Canolux_GSCL_100W120W150W_TDS.pdf",
+      "__images": [],
+      "__row_number": 28
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 29
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 30
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Downlight/Orwin Downlight/TDS/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 31
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 32
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 33
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Orion_Wraparound_TDS.pdf",
+      "__images": [],
+      "__row_number": 34
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/UFO High Bay/Upstar UFO High Bay/TDS/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 35
+    },
+    {
+      "SKU Number": 662187528304,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Linear Low Bay/Delphi Linear Low Bay/TDS/Delphi_LLB_4'_TDS.pdf",
+      "__images": [],
+      "__row_number": 36
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 37
+    },
+    {
+      "SKU Number": 662187488882,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_1x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 38
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 39
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 40
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 41
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 42
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 43
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 44
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 45
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 46
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 47
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 48
+    },
+    {
+      "SKU Number": 662187487168,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Orion_Wraparound_Light_2FT_15W20W24W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 49
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Wraparound_21W26W34W40W_4FT_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 50
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Areon_AL_Bronze_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 51
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "http://ikioledlighting.com/documents/products/Made to Order Products/250521 SE ES240006 ALT2/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 52
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Flood Light/Magnus Architectural Flood light/TDS/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 53
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Industrial/Flood Lights/Novus Architectural Flood Lights/TDS/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 54
+    },
+    {
+      "SKU Number": 662187533872,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_4000K_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 55
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/2522 KAPL CEG RFQ/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 56
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/2522 KAPL CEG RFQ/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 57
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 58
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Canopy Light/Delphi Fuel Pump Canopy Light ( Integrated Photocell)/TDS/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 59
+    },
+    {
+      "SKU Number": 662187510736,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/2FT/TDS/Apex_LLB_2FT_15W20W25W_TDS.pdf",
+      "__images": [],
+      "__row_number": 60
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Corn Lamp/Ace Corn Lamp/TDS/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 61
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (CCT Selectable)/TDS/T8_Glass_Tube_Type B_42W_8FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 62
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/4FT/TDS/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 63
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Wall Pack/Edin Semicutoff Wallpack/TDS/Edin_WP_SC_70W85W100W120W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 64
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Novus Architectural Flood Lights/TDS/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 65
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "http://ikioledlighting.com/documents/products/Commerical/Downlight/Orwin Downlight/TDS/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 66
+    },
+    {
+      "SKU Number": 662187477473,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Wall Packs/Delphi Mini Wall Pack/TDS/Delphi_Mini_WP_TDS.pdf",
+      "__images": [],
+      "__row_number": 67
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Magnus Architectural Flood light/TDS/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 68
+    },
+    {
+      "SKU Number": 662187487793,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/2FT/TDS/Nevo_VTL_2FT_15W20W25W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 69
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Wraparound/Oriled/TDS/Oriled_Wraparound_21W26W34W40W_30K35K40K50K65K_TDS.pdf",
+      "__images": [],
+      "__row_number": 70
+    },
+    {
+      "SKU Number": 662187487571,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Amplin Gen2 Linear High Bay/TDS/Amplin_Gen2_LHB_200W240W300W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 71
+    },
+    {
+      "SKU Number": 662187482248,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Yard Light/Maxton Yard Light/TDS/Maxton_YL_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 72
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Downlight/Orwin Downlight/TDS/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 73
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Lineo Linear High Bay/TDS/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 74
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Wall Pack/Delphi Full Cutoff Wall Pack Integrated Photocell/TDS/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 75
+    },
+    {
+      "SKU Number": 662187512105,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Raydent Gen2 Stadium Flood Light/TDS/30D/300W-400W-500W-600W/Raydent_Gen2_SFL_300W400W500W600W_50K_MV_30D_TDS.pdf",
+      "__images": [],
+      "__row_number": 76
+    },
+    {
+      "SKU Number": 662187489025,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 77
+    },
+    {
+      "SKU Number": 662187488097,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 2FT/TDS/T5_Tube_Type_B_2FT_9W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 78
+    },
+    {
+      "SKU Number": 662187487892,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lily/T5_Tube_Type_B_4FT_15.7W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 79
+    },
+    {
+      "SKU Number": 662187539614,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15.2W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 80
+    },
+    {
+      "SKU Number": 662187486789,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/24W_2Strip/Aimant_MRSK_24W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 81
+    },
+    {
+      "SKU Number": 662187486789,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/24W_2Strip/Aimant_MRSK_24W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 82
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/4FT/TDS/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 83
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Essex County NY /Orion_Wraparound_Light_4FT_30W35W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 84
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 85
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hagerman/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 86
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Valley Wide/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 87
+    },
+    {
+      "SKU Number": 662187486079,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Wall Pack/Ove Emergency Mini Wallpack/TDS/Ove_Emergency_Mini_WP_13.4W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 88
+    },
+    {
+      "SKU Number": 662187528298,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Linear Low Bay/Delphi Linear Low Bay/TDS/Delphi_LLB_2'_TDS.pdf",
+      "__images": [],
+      "__row_number": 89
+    },
+    {
+      "SKU Number": 662187482484,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_White_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 90
+    },
+    {
+      "SKU Number": 662187479583,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Canopy Lights/Delphi Fuel Pump Canopy/TDS/Delphi_FPCN_30W-40W-50.8W_120-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 91
+    },
+    {
+      "SKU Number": 662187482446,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Corn Lamp/Ace Corn Lamp/TDS/Ace_CB_80W100W120W_TDS.pdf",
+      "__images": [],
+      "__row_number": 92
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Corn Lamp/Ace Corn Lamp/TDS/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 93
+    },
+    {
+      "SKU Number": 662187482798,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/8FT/TDS/Apex_LLB_With_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 94
+    },
+    {
+      "SKU Number": 662187508559,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Adidas/IK-ROPTIKTL-20W-35K-BL-90C-ADB.pdf",
+      "__images": [],
+      "__row_number": 95
+    },
+    {
+      "SKU Number": 662187510736,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/2FT/TDS/Apex_LLB_2FT_15W20W25W_TDS.pdf",
+      "__images": [],
+      "__row_number": 96
+    },
+    {
+      "SKU Number": 662187508559,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Adidas Round Rock/IK-ROPTIKTL-13W-35K-BL-90C-ADB.pdf",
+      "__images": [],
+      "__row_number": 97
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Adult High School/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 98
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Adult High School/Edin_WP_SC_60W70W80W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 99
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood%20Lights/Novus%20Architectural%20Flood%20Lights/TDS/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 100
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Wraparound/Oriled/TDS/Oriled_Wraparound_21W26W34W40W_30K35K40K50K65K_TDS.pdf",
+      "__images": [],
+      "__row_number": 101
+    },
+    {
+      "SKU Number": 662187486208,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_4000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 102
+    },
+    {
+      "SKU Number": 662187509266,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Industrial/Flood Lights/Luminix Stadium Flood Light/TDS/Luminix_SFL_500W600W700W800W_5000K_MV_35D_TDS.pdf",
+      "__images": [],
+      "__row_number": 103
+    },
+    {
+      "SKU Number": 662187482460,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_White_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 104
+    },
+    {
+      "SKU Number": 662187547008,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Wall Packs/Delphi Wall Pack Full Cutoff/TDS/Delphi_WP_FC_40W60W80W100W_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 105
+    },
+    {
+      "SKU Number": 662187489049,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/AGI Price Request/Canolux_Gas_Station_CL_100W120W150W_40K50K57K_TDS.pdf",
+      "__images": [],
+      "__row_number": 106
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 107
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://www.ikioledlighting.com/product/delphi-architectural-troffer-2x2-cps-series",
+      "__images": [],
+      "__row_number": 108
+    },
+    {
+      "SKU Number": 662187486222,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Allen County/Hexacule_HML_430W_4000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 109
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Antioch Project/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 110
+    },
+    {
+      "SKU Number": 662187540177,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-7PIN-AC100-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 111
+    },
+    {
+      "SKU Number": 662187482446,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Corn Lamp/Ace Corn Lamp/TDS/Ace_CB_80W100W120W_TDS.pdf",
+      "__images": [],
+      "__row_number": 112
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Dallas County/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 113
+    },
+    {
+      "SKU Number": 662187479033,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Accessories/Emergency LED Driver 18W.pdf",
+      "__images": [],
+      "__row_number": 114
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 U-Bend Glass Tube Type B/TDS/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 115
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Bannock/10 Years Warranty/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 116
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Bannock/10 Years Warranty/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 117
+    },
+    {
+      "SKU Number": 662187485485,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/Sigma Gen2 T8 EM Tube Type B/TDS/SigmaGen2_T8_EM1_Tube_Type_B_15W_3500K4000K5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 118
+    },
+    {
+      "SKU Number": 662187485355,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 4FT/TDS/24 W/T5_Tube_Type_B_4FT_23.2W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 119
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 120
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 121
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 122
+    },
+    {
+      "SKU Number": 662187549439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Delphi_PL_2x2FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 123
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 124
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 125
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Edin_WP_SC_70W85W100W120W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 126
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 127
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 128
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 129
+    },
+    {
+      "SKU Number": 662187489025,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/T8_Glass_Tube_Type B_9W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 130
+    },
+    {
+      "SKU Number": 662187492667,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/T8_Glass_Tube_Type B_9W_4FT_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 131
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 132
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 133
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/T8_Glass_Tube_Type B_42W_8FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 134
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/BFY Program - AGI/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 135
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Bismarck Center/Delphi_AT_2x4FT_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 136
+    },
+    {
+      "SKU Number": 662187488882,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Bismarck Center/Delphi_AT_1x4FT_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 137
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Excel Group Energy/Orion_Wraparound_Light_4FT_30W35W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 138
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/LED Indy/Upstar_UHB_100W150W200W240W_White_TDS.pdf",
+      "__images": [],
+      "__row_number": 139
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 140
+    },
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "http://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 141
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Broadstone Washington Phase 2/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 142
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Back - Lit Panel Lights/Delphi Back-Lit Panel Lights/TDS/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 143
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 U-Bend Glass Tube Type B/TDS/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 144
+    },
+    {
+      "SKU Number": 662187553375,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Superia Linear High Bay/Technical Data Sheet/Superia_LHB_60W_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 145
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 146
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 147
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 148
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/McKinney ISD/Orion_Wraparound_Light_4FT_30W35W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 149
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/McKinney ISD/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 150
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 151
+    },
+    {
+      "SKU Number": 662187512624,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Visiolit Back-Lit Panel Light/TDS/Visiolit_BL24_30W40W50W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 152
+    },
+    {
+      "SKU Number": 662187512600,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Visiolit Back-Lit Panel Light/TDS/Visiolit_BL14_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 153
+    },
+    {
+      "SKU Number": 662187512617,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Panel Light/Visiolit Back-Lit Panel Light/TDS/Visiolit_BL22_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 154
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Canopy Light/Delphi Fuel Pump Canopy Light ( Integrated Photocell)/TDS/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 155
+    },
+    {
+      "SKU Number": 662187541822,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/LED Products 24-25/Orwin_DL_4inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 156
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Downlight/Orwin Downlight/TDS/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 157
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/MSP Terminal 2 North Gate/Orion_Wraparound_TDS.pdf",
+      "__images": [],
+      "__row_number": 158
+    },
+    {
+      "SKU Number": 662187483955,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/Aimant_MRSK_24W-30W-40W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 159
+    },
+    {
+      "SKU Number": 662187487168,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Wrap Light/Orion_Wraparound_Light_2FT_15W20W24W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 160
+    },
+    {
+      "SKU Number": 662187486734,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/24W_1Strip/Aimant_MRSK_24W_4000K_120-277V_PC_lens_1strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 161
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Downlight/Orwin Downlight/TDS/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 162
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Wall Pack/Edin Semicutoff Wallpack/TDS/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 163
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Vapor Tight Light/Nevo Vapor Tight Light CCT & Power Selectable/8FT/TDS/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 164
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/SCT Apartment Lighting/Wraparound_21W26W34W40W_4FT_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 165
+    },
+    {
+      "SKU Number": 662187508269,
+      "Product URL": "https://ikioledlighting.com/documents/products/Temporary TDS links /IK-RTRANGTL-15W-30-40-50K-BL-90C-38D.pdf",
+      "__images": [],
+      "__row_number": 166
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 167
+    },
+    {
+      "SKU Number": 662187485348,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 4FT/TDS/15 W/T5_Tube_Type_B_4FT_15.7W_CL_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 168
+    },
+    {
+      "SKU Number": 662187540627,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_4000K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 169
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Danbury/Delphi_RT(F)_1x4FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 170
+    },
+    {
+      "SKU Number": 662187487199,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_99.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 171
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Columbia Health Care Centre/Wraparound_21W26W34W40W_4FT_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 172
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/8ft, T8, Type B, 42W.pdf",
+      "__images": [],
+      "__row_number": 173
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Edin Wall Pack.pdf",
+      "__images": [],
+      "__row_number": 174
+    },
+    {
+      "SKU Number": 662187465265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/4ft, T8, TypeB, 20W.pdf",
+      "__images": [],
+      "__row_number": 175
+    },
+    {
+      "SKU Number": 662187548081,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/4ft T8 Type B 14W.pdf",
+      "__images": [],
+      "__row_number": 176
+    },
+    {
+      "SKU Number": 662187539805,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/4ft T8 Type B, 18.4W.pdf",
+      "__images": [],
+      "__row_number": 177
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Orion Wraparound.pdf",
+      "__images": [],
+      "__row_number": 178
+    },
+    {
+      "SKU Number": 662187482446,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Ace Corn Bulb 120W.pdf",
+      "__images": [],
+      "__row_number": 179
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Nevo Vapor Tight.pdf",
+      "__images": [],
+      "__row_number": 180
+    },
+    {
+      "SKU Number": 662187481265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/2ft, T8, Type B, 9.2W.pdf",
+      "__images": [],
+      "__row_number": 181
+    },
+    {
+      "SKU Number": 662187486024,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/3ft T8 Tube.pdf",
+      "__images": [],
+      "__row_number": 182
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 183
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 184
+    },
+    {
+      "SKU Number": 662187479583,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Delphi Canopy Light.pdf",
+      "__images": [],
+      "__row_number": 185
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Ace Corn Bulb 54W.pdf",
+      "__images": [],
+      "__row_number": 186
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Delphi_Architectural_Troffer_2x2FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 187
+    },
+    {
+      "SKU Number": 662187477718,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/T8_Tube_Type_B_4FT_18 W_4000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 188
+    },
+    {
+      "SKU Number": 662187482798,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/Apex_LLB_With_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 189
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 190
+    },
+    {
+      "SKU Number": 662187481258,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/T8_Tube_Type_B_3FT_15.3W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 191
+    },
+    {
+      "SKU Number": 662187477695,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/T8_Tube_Type_B_4FT_12.1W_4000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 192
+    },
+    {
+      "SKU Number": 662187477701,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/NEW/T8_Tube_Type_B_4FT_18 W_5000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 193
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Wall Pack/Edin Semicutoff Wallpack/TDS/Edin_WP_SC_70W85W100W120W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 194
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Wall%20Pack/Edin%20Semicutoff%20Wallpack/TDS/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 195
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Energy X/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 196
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/LADWP/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 197
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/AEPA-Price  Sheet/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 198
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/AEPA-Price  Sheet/Edin_WP_SC_70W85W100W120W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 199
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/UFO High Bay/Upstar UFO High Bay/TDS/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 200
+    },
+    {
+      "SKU Number": 662187560120,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SBSL2-S4C-90-480V_Shorting Cap.pdf",
+      "__images": [],
+      "__row_number": 201
+    },
+    {
+      "SKU Number": 662187487656,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Amplin Gen2 Linear High Bay/TDS/Amplin_Gen2_LHB_100W150W200W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 202
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Columbia Health Care Centre/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 203
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Commonwealth of Kentucky/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 204
+    },
+    {
+      "SKU Number": 662187540085,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/75W-100W-150W/LocusGen2_AL_Bronze_75W100W150W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 205
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Commonwealth of Kentucky/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 206
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Delphi Architectural Troffers/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 207
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Delphi Architectural Troffers/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 208
+    },
+    {
+      "SKU Number": 662187528304,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Delphi Linear Low Bay/Delphi_LLB_4_TDS.pdf",
+      "__images": [],
+      "__row_number": 209
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Orwin Downlight/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 210
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Orwin Downlight/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 211
+    },
+    {
+      "SKU Number": 662187477718,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T8 Tube Type B/T8_Tube_Type_B_4FT_18 W_4000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 212
+    },
+    {
+      "SKU Number": 662187539614,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T8 Tube Type B/T8_Tube_Type_B_4FT_15.2 W_4000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 213
+    },
+    {
+      "SKU Number": 662187477695,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T8 Tube Type B/T8_Tube_Type_B_4FT_12.1W_4000K_SF_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 214
+    },
+    {
+      "SKU Number": 662187540047,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Delphi Architectural Troffers/Delphi_AT(F)_1x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 215
+    },
+    {
+      "SKU Number": 662187487656,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Amplin Gen2/Amplin_Gen2_LHB_100W150W200W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 216
+    },
+    {
+      "SKU Number": 662187485997,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T8 Tube Type B/T8_Tube_Type_B_8FT_40W_CL_4000K_R17_TDS.pdf",
+      "__images": [],
+      "__row_number": 217
+    },
+    {
+      "SKU Number": 662187488103,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T5 Tube Type B/T5_Tube_Type_B_2FT_9W_CL_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 218
+    },
+    {
+      "SKU Number": 662187481265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/T8 Tube Type B/T8_Tube_Type_B_2FT_9.2W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 219
+    },
+    {
+      "SKU Number": 662187547008,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/Full Cutoff Wallpack/Delphi_WP_FC_40W60W80W100W_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 220
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Obsolete Lighting Project (BAA)/New Create TDS/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 221
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Corinth School District Lighting/10 Year Warranty/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 222
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Corinth School District Lighting/10 Year Warranty/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 223
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Corinth School District Lighting/10 Year Warranty/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 224
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Valley Wide/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 225
+    },
+    {
+      "SKU Number": 662187487564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/T8_Tube_Type_B_4FT_17.8W_RF_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 226
+    },
+    {
+      "SKU Number": 662187540092,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/75W-100W-150W/LocusGen2_AL_Bronze_75W100W150W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 227
+    },
+    {
+      "SKU Number": 662187482835,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-8W-EMD_Emergency LED Driver.pdf",
+      "__images": [],
+      "__row_number": 228
+    },
+    {
+      "SKU Number": 662187533254,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 229
+    },
+    {
+      "SKU Number": 662187539645,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.2W_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 230
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Desoto County  Schools/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 231
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Desoto County  Schools/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 232
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/McKinney ISD/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 233
+    },
+    {
+      "SKU Number": 662187477718,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 234
+    },
+    {
+      "SKU Number": 662187481265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 2FT/TDS/T8_Tube_Type_B_2FT_9.2W_SF_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 235
+    },
+    {
+      "SKU Number": 662187481173,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_6500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 236
+    },
+    {
+      "SKU Number": 662187465319,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 237
+    },
+    {
+      "SKU Number": 662187482446,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Corn%20Lamp/Ace%20Corn%20Lamp/TDS/Ace_CB_80W100W120W_TDS.pdf",
+      "__images": [],
+      "__row_number": 238
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Corn%20Lamp/Ace%20Corn%20Lamp/TDS/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 239
+    },
+    {
+      "SKU Number": 662187481173,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20A&B/T8%20Tube%20Type%20A&B/T8%20Tube%20Type%20B_4FT/TDS/20%20W/T8_Tube_Type_A&B_4FT_18W_6500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 240
+    },
+    {
+      "SKU Number": 662187465319,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20A&B/T8%20Tube%20Type%20A&B/T8%20Tube%20Type%20B_4FT/TDS/20%20W/T8_Tube_Type_A&B_4FT_18W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 241
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T8%20U-Bend%20Glass%20Tube%20Type%20B/TDS/T8_U-Bend_Glass_Tube_Type%20B_TDS.pdf",
+      "__images": [],
+      "__row_number": 242
+    },
+    {
+      "SKU Number": 662187512600,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Mckinstry/Visiolit_BL_1X4_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 243
+    },
+    {
+      "SKU Number": 662187540382,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Lior Linear High Bay/TDS/Lior_LHB_220W295W320W_TDS.pdf",
+      "__images": [],
+      "__row_number": 244
+    },
+    {
+      "SKU Number": 662187540382,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear High Bay/Lior Linear High Bay/TDS/Lior_LHB_220W295W320W_TDS.pdf",
+      "__images": [],
+      "__row_number": 245
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Rivian Service Center/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 246
+    },
+    {
+      "SKU Number": 662187541921,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Chris sales query/Emergency_Light_Square_Two_Head_Adjustable_2.4W_TDS.pdf",
+      "__images": [],
+      "__row_number": 247
+    },
+    {
+      "SKU Number": 662187483955,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Essex County NY /Aimant_MRSK_24W-30W-40W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 248
+    },
+    {
+      "SKU Number": 662187478685,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/Orion_Wraparound_TDS.pdf",
+      "__images": [],
+      "__row_number": 249
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 250
+    },
+    {
+      "SKU Number": 662187528304,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Delphi_LLB_4FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 251
+    },
+    {
+      "SKU Number": 662187486079,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Ove_Emergency_Mini_WP_13.4W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 252
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 253
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear%20High%20Bay/Lineo%20Linear%20High%20Bay/TDS/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 254
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 255
+    },
+    {
+      "SKU Number": 662187495088,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/IK-RGLINTDL-15W-40K-WH-90C-38D.pdf",
+      "__images": [],
+      "__row_number": 256
+    },
+    {
+      "SKU Number": 662187481760,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Novus2_AFL_15W_TDS.pdf",
+      "__images": [],
+      "__row_number": 257
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Areon_AL_Bronze_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 258
+    },
+    {
+      "SKU Number": 662187547008,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Frisco/Delphi_WP_FC_40W60W80W100W_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 259
+    },
+    {
+      "SKU Number": 662187512617,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Mckinstry/Visiolit_BL_2X2_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 260
+    },
+    {
+      "SKU Number": 662187512624,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Mckinstry/Visiolit_BL_2X4_30W40W50W_TDS.pdf",
+      "__images": [],
+      "__row_number": 261
+    },
+    {
+      "SKU Number": 662187482446,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Ace Corn Bulb 120W.pdf",
+      "__images": [],
+      "__row_number": 262
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/GLWA/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 263
+    },
+    {
+      "SKU Number": 662187533247,
+      "Product URL": "https://www.ikioledlighting.com/product/t8-tube-type-a-b",
+      "__images": [],
+      "__row_number": 264
+    },
+    {
+      "SKU Number": 662187486147,
+      "Product URL": "https://www.ikioledlighting.com/product/t8-tube-type-b-4ft",
+      "__images": [],
+      "__row_number": 265
+    },
+    {
+      "SKU Number": 662187546995,
+      "Product URL": "https://www.ikioledlighting.com/product/delphi-wallpack-semicutoff-cps-series",
+      "__images": [],
+      "__row_number": 266
+    },
+    {
+      "SKU Number": 662187539577,
+      "Product URL": "https://www.ikioledlighting.com/product/locus-area-luminaire",
+      "__images": [],
+      "__row_number": 267
+    },
+    {
+      "SKU Number": 662187512600,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Chesterton High School/Visiolit_BL14_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 268
+    },
+    {
+      "SKU Number": 662187512617,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Chesterton High School/Visiolit_BL22_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 269
+    },
+    {
+      "SKU Number": 662187512624,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Chesterton High School/Visiolit_BL24_30W40W50W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 270
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Gordon County School/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 271
+    },
+    {
+      "SKU Number": 662187553740,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/City of Grand Junction/T8_Tube_Type_A&B_TDS.pdf",
+      "__images": [],
+      "__row_number": 272
+    },
+    {
+      "SKU Number": 662187465265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_4000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 273
+    },
+    {
+      "SKU Number": 662187548081,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_4000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 274
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Grove at Pleasant Run Apartment/Areon_AL_Bronze_TYPEII_IV_V_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 275
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Grove at Pleasant Run Apartment/Areon_AL_Bronze_TYPEII_III_IV_V_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 276
+    },
+    {
+      "SKU Number": 662187548456,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Gwinett County/IK-ACC-EM-FM04E-600400_EM_BBU_with Cable.pdf",
+      "__images": [],
+      "__row_number": 277
+    },
+    {
+      "SKU Number": 662187489025,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 278
+    },
+    {
+      "SKU Number": 662187487892,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Specs for US Team/Smart Troffer/T5_Tube_Type_B_4FT_15.7W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 279
+    },
+    {
+      "SKU Number": 662187477695,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.1W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 280
+    },
+    {
+      "SKU Number": 662187487021,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Lior Linear High Bay/TDS/Lior_LHB_200W240W320W400W_TDS.pdf",
+      "__images": [],
+      "__row_number": 281
+    },
+    {
+      "SKU Number": 662187489049,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Canopy Lights/Canolux Gas Station Canopy Light/TDS/Canolux_GSCL_100W120W150W_TDS.pdf",
+      "__images": [],
+      "__row_number": 282
+    },
+    {
+      "SKU Number": 662187487984,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/75W-100W-150W/LocusGen2_AL_White_75W100W150W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 283
+    },
+    {
+      "SKU Number": 662187478166,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/240 W/Locus_AL_Bronze_240W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 284
+    },
+    {
+      "SKU Number": 662187482491,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_150W200W240W300W_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 285
+    },
+    {
+      "SKU Number": 662187486079,
+      "Product URL": "https://www.ikioledlighting.com/product/ove-emergency-mini-wall-pack",
+      "__images": [],
+      "__row_number": 286
+    },
+    {
+      "SKU Number": 662187533858,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_3000K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 287
+    },
+    {
+      "SKU Number": 662187536767,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Edge - Lit Panel Lights/Coloris RGBW Edge - Lit Panel Light/1x4/Technical Data Sheet/Coloris_RGBW_ELPL_1'x4'_36W_TDS.pdf",
+      "__images": [],
+      "__row_number": 288
+    },
+    {
+      "SKU Number": 662187557236,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Edge - Lit Panel Lights/Coloris RGBW Edge - Lit Panel Light/2x2/Technical Data Sheet/Coloris_RGBW_ELPL_2'x2'_36W_TDS.pdf",
+      "__images": [],
+      "__row_number": 289
+    },
+    {
+      "SKU Number": 662187557212,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel Light/Edge - Lit Panel Lights/Coloris RGBW Edge - Lit Panel Light/2x4/Technical Data Sheet/Coloris_RGBW_ELPL_2'x4'_60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 290
+    },
+    {
+      "SKU Number": 662187547084,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Architectural Troffer/Smart Toucan Architectural Troffer/2x2/Technical Data Sheets/Smart_Toucan_AT_IOS_25W_2'x2'_4000K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 291
+    },
+    {
+      "SKU Number": 662187479729,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Architectural Troffer/Smart Toucan Architectural Troffer/2x2/Technical Data Sheets/Smart_Toucan_AT_IOS_25W_2'x2'_5000K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 292
+    },
+    {
+      "SKU Number": 662187547091,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Architectural Troffer/Smart Toucan Architectural Troffer/2x4/Technical Data Sheets/Smart_Toucan_AT_IOS_36W_2'x4'_4000K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 293
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 294
+    },
+    {
+      "SKU Number": 662187485867,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-R-RC106_Sensor Remote.pdf",
+      "__images": [],
+      "__row_number": 295
+    },
+    {
+      "SKU Number": 662187485843,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-S-ANT9C_Low_Voltage_Microwave_Bi-Level_Sensor.pdf",
+      "__images": [],
+      "__row_number": 296
+    },
+    {
+      "SKU Number": 662187488103,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 2FT/TDS/T5_Tube_Type_B_2FT_9W_FR_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 297
+    },
+    {
+      "SKU Number": 662187486390,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 4FT/TDS/15 W/T5_Tube_Type_B_4FT_15.7W_CL_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 298
+    },
+    {
+      "SKU Number": 662187487069,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 4FT/TDS/24 W/T5_Tube_Type_B_4FT_23.2W_FR_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 299
+    },
+    {
+      "SKU Number": 662187482330,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-UFHB-EMB_ LED Emergency Driver.pdf",
+      "__images": [],
+      "__row_number": 300
+    },
+    {
+      "SKU Number": 662187482316,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HB03-R_Sensor Remote.pdf",
+      "__images": [],
+      "__row_number": 301
+    },
+    {
+      "SKU Number": 662187482309,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HB01DMS-A_Microwave_Motion_Sensor.pdf",
+      "__images": [],
+      "__row_number": 302
+    },
+    {
+      "SKU Number": 662187486437,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_299.9W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 303
+    },
+    {
+      "SKU Number": 662187487236,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_299.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 304
+    },
+    {
+      "SKU Number": 662187487229,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_239.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 305
+    },
+    {
+      "SKU Number": 662187486420,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_238.1W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 306
+    },
+    {
+      "SKU Number": 662187487212,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_199.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 307
+    },
+    {
+      "SKU Number": 662187487205,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_149.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 308
+    },
+    {
+      "SKU Number": 662187486444,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-HD07VR-A_3PIN_Microwave_Motion_Sensor.pdf",
+      "__images": [],
+      "__row_number": 309
+    },
+    {
+      "SKU Number": 662187487854,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Amplin Gen2 Linear High Bay/Accessories/IK-ACC-HD05R-Digital_Smart_Remote.pdf",
+      "__images": [],
+      "__row_number": 310
+    },
+    {
+      "SKU Number": 662187485966,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_99.9W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 311
+    },
+    {
+      "SKU Number": 662187485959,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_149W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 312
+    },
+    {
+      "SKU Number": 662187486345,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_199.8W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 313
+    },
+    {
+      "SKU Number": 662187482422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-LHBL2-EMB_ LED Emergency Driver.pdf",
+      "__images": [],
+      "__row_number": 314
+    },
+    {
+      "SKU Number": 662187540375,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Lior Linear High Bay/TDS/Lior_LHB_400W500W600W_TDS.pdf",
+      "__images": [],
+      "__row_number": 315
+    },
+    {
+      "SKU Number": 662187486741,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/24W_1Strip/Aimant_MRSK_24W_5000K_120-277V_PC_lens_1strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 316
+    },
+    {
+      "SKU Number": 662187486796,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/24W_2Strip/Aimant_MRSK_24W_5000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 317
+    },
+    {
+      "SKU Number": 662187486833,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/30W_2Strip/Aimant_MRSK_30W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 318
+    },
+    {
+      "SKU Number": 662187486840,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/30W_2Strip/Aimant_MRSK_30W_5000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 319
+    },
+    {
+      "SKU Number": 662187486888,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/40W_2Strip/Aimant_MRSK_40W_4000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 320
+    },
+    {
+      "SKU Number": 662187486895,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Magnetic Retrofit Strip Kit/Aimant Magnetic Retrofit Strip/TDS/40W_2Strip/Aimant_MRSK_40W_5000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 321
+    },
+    {
+      "SKU Number": 662187482682,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-S-ANT9_Bi_Level_DH_ Microwave_Motion_Sensor.pdf",
+      "__images": [],
+      "__row_number": 322
+    },
+    {
+      "SKU Number": 662187482651,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-R-RC100_Sensor Remote Programmer.pdf",
+      "__images": [],
+      "__row_number": 323
+    },
+    {
+      "SKU Number": 662187478005,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_White_200W_5000K_100-277V_Dimmable_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 324
+    },
+    {
+      "SKU Number": 662187478029,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High Bays/Linear/Amplin Linear High Bay/TDS/Amplin_LHB_White_300W_5000K_100-277V_Dimmable_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 325
+    },
+    {
+      "SKU Number": 662187461489,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_300W_3000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 326
+    },
+    {
+      "SKU Number": 662187461496,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_300W_4000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 327
+    },
+    {
+      "SKU Number": 662187461502,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_300W_5000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 328
+    },
+    {
+      "SKU Number": 662187488417,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_301.7W_5700K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 329
+    },
+    {
+      "SKU Number": 662187477015,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_301.3W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 330
+    },
+    {
+      "SKU Number": 662187461618,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_3000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 331
+    },
+    {
+      "SKU Number": 662187461519,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_3000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 332
+    },
+    {
+      "SKU Number": 662187461625,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_4000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 333
+    },
+    {
+      "SKU Number": 662187461526,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_4000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 334
+    },
+    {
+      "SKU Number": 662187528441,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 335
+    },
+    {
+      "SKU Number": 662187461533,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/400 W/Dynamo3_SFL_400W_5000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 336
+    },
+    {
+      "SKU Number": 662187528465,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_3000K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 337
+    },
+    {
+      "SKU Number": 662187461670,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_3000K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 338
+    },
+    {
+      "SKU Number": 662187461649,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_3500K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 339
+    },
+    {
+      "SKU Number": 662187544298,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_3500K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 340
+    },
+    {
+      "SKU Number": 662187475677,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_4000K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 341
+    },
+    {
+      "SKU Number": 662187544304,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_4000K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 342
+    },
+    {
+      "SKU Number": 662187461663,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_4500K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 343
+    },
+    {
+      "SKU Number": 662187544311,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_4500K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 344
+    },
+    {
+      "SKU Number": 662187547107,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_5000K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 345
+    },
+    {
+      "SKU Number": 662187544328,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_5000K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 346
+    },
+    {
+      "SKU Number": 662187461656,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_5700K_100-277V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 347
+    },
+    {
+      "SKU Number": 662187539553,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/500 W/Dynamo3_SFL_500W_5700K_277-480V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 348
+    },
+    {
+      "SKU Number": 662187461700,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_3000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 349
+    },
+    {
+      "SKU Number": 662187461540,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_3000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 350
+    },
+    {
+      "SKU Number": 662187528540,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_4000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 351
+    },
+    {
+      "SKU Number": 662187461557,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_4000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 352
+    },
+    {
+      "SKU Number": 662187479705,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 353
+    },
+    {
+      "SKU Number": 662187461564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/600 W/Dynamo3_SFL_600W_5000K_277-480V_TDS.pdf",
+      "__images": [],
+      "__row_number": 354
+    },
+    {
+      "SKU Number": 662187482217,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Magnus Architectural Flood light/Accessories/IK-SHC-JL-208_Shorting Cap.pdf",
+      "__images": [],
+      "__row_number": 355
+    },
+    {
+      "SKU Number": 662187482231,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Magnus Architectural Flood light/Accessories/IK-PHC-3PIN-AC100-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 356
+    },
+    {
+      "SKU Number": 662187540160,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-5PIN-AC100-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 357
+    },
+    {
+      "SKU Number": 662187483641,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-5PIN-SOCKET-0-480V_Photocell_5Pin_Socket_TDS.pdf",
+      "__images": [],
+      "__row_number": 358
+    },
+    {
+      "SKU Number": 662187487755,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-7PIN-SOCKET-0-480V_Photocell_7Pin_Socket_TDS.pdf",
+      "__images": [],
+      "__row_number": 359
+    },
+    {
+      "SKU Number": 662187483634,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-3PIN-SOCKET-0-480V_Photocell_3Pin_Socket_TDS.pdf",
+      "__images": [],
+      "__row_number": 360
+    },
+    {
+      "SKU Number": 662187482231,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-3PIN-AC100-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 361
+    },
+    {
+      "SKU Number": 662187486543,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SPD-10KV (100-277V)_Surge_Protection_Device_10kV.pdf",
+      "__images": [],
+      "__row_number": 362
+    },
+    {
+      "SKU Number": 662187487625,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SPD-20KV-(100-277V)_Surge_Protection_20kV.pdf",
+      "__images": [],
+      "__row_number": 363
+    },
+    {
+      "SKU Number": 662187487663,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-3PIN-AC277-480V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 364
+    },
+    {
+      "SKU Number": 662187487724,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-7PIN-AC277-480V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 365
+    },
+    {
+      "SKU Number": 662187488516,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SPD-20KV-(277-480V)_Surge_Protection_Device_20kV.pdf",
+      "__images": [],
+      "__row_number": 366
+    },
+    {
+      "SKU Number": 662187507637,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SPD-10KV-(277-480V)_Surge_Protection_Device_10kV.pdf",
+      "__images": [],
+      "__row_number": 367
+    },
+    {
+      "SKU Number": 662187487717,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-PHC-5PIN-AC277-480V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 368
+    },
+    {
+      "SKU Number": 662187501604,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Raydent Stadium Flood Light/TDS/Raydent_SFL_751.8W_5700K_120-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 369
+    },
+    {
+      "SKU Number": 662187487618,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Raydent Stadium Flood Light/TDS/Raydent_SFL_752.8W_5000K_120-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 370
+    },
+    {
+      "SKU Number": 662187501598,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Flood Light/Raydent Stadium Flood Light/TDS/Raydent_SFL_753.7W_4000K_120-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 371
+    },
+    {
+      "SKU Number": 662187488400,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_301.3W_4500K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 372
+    },
+    {
+      "SKU Number": 662187461588,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_301.3W_4000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 373
+    },
+    {
+      "SKU Number": 662187488394,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_301.3W_3500K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 374
+    },
+    {
+      "SKU Number": 662187461571,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Flood Lights/Dynamo 3 Stadium Flood Light/TDS/300 W/Dynamo3_SFL_300.9W_3000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 375
+    },
+    {
+      "SKU Number": 662187489056,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-S-HD06VCRH-7B (White)_Microwave Motion Sensor.pdf",
+      "__images": [],
+      "__row_number": 376
+    },
+    {
+      "SKU Number": 662187482514,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_White_150W200W240W300W_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 377
+    },
+    {
+      "SKU Number": 662187482217,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SHC-JL-208_Shorting Cap.pdf",
+      "__images": [],
+      "__row_number": 378
+    },
+    {
+      "SKU Number": 662187539577,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/100 W/Locus_AL_Bronze_100W_3000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 379
+    },
+    {
+      "SKU Number": 662187539560,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/100 W/Locus_AL_White_100W_3000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 380
+    },
+    {
+      "SKU Number": 662187478098,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/100 W/Locus_AL_Bronze_100W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 381
+    },
+    {
+      "SKU Number": 662187478104,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/100 W/Locus_AL_White_100W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 382
+    },
+    {
+      "SKU Number": 662187478111,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/150 W/Locus_AL_Bronze_150W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 383
+    },
+    {
+      "SKU Number": 662187478128,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/150 W/Locus_AL_White_150W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 384
+    },
+    {
+      "SKU Number": 662187478135,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/200 W/Locus_AL_Bronze_200W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 385
+    },
+    {
+      "SKU Number": 662187478142,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/200 W/Locus_AL_White_200W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 386
+    },
+    {
+      "SKU Number": 662187478173,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/240 W/Locus_AL_White_240W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 387
+    },
+    {
+      "SKU Number": 662187478180,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/300 W/Locus_AL_Bronze_300W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 388
+    },
+    {
+      "SKU Number": 662187478197,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Area Luminaire/TDS/300 W/Locus_AL_White_300W_5000K_100-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 389
+    },
+    {
+      "SKU Number": 662187560021,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SBSL2-PHC-90-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 390
+    },
+    {
+      "SKU Number": 662187560106,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SBSL2-PHC-200-480V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 391
+    },
+    {
+      "SKU Number": 662187549910,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SBSL1-SF-A_Slip Fitter Mount.pdf",
+      "__images": [],
+      "__row_number": 392
+    },
+    {
+      "SKU Number": 662187540078,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/75W-100W-150W/LocusGen2_AL_White_75W100W150W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 393
+    },
+    {
+      "SKU Number": 662187488004,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/200W-240W-300W/LocusGen2_AL_White_200W240W300W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 394
+    },
+    {
+      "SKU Number": 662187540061,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/200W-240W-300W/LocusGen2_AL_Bronze_200W240W300W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 395
+    },
+    {
+      "SKU Number": 662187540054,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/200W-240W-300W/LocusGen2_AL_White_200W240W300W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 396
+    },
+    {
+      "SKU Number": 662187477657,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-S618-P-DR  PIR Sensor_Occupancy Sensor.pdf",
+      "__images": [],
+      "__row_number": 397
+    },
+    {
+      "SKU Number": 662187486567,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HB01DMS-C_Microwave_Motion_Sensor.pdf",
+      "__images": [],
+      "__row_number": 398
+    },
+    {
+      "SKU Number": 662187486574,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HB02DPR-C_PIR Sensor.pdf",
+      "__images": [],
+      "__row_number": 399
+    },
+    {
+      "SKU Number": 662187486598,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SP-10KV_Surge_Protection_10kV.pdf",
+      "__images": [],
+      "__row_number": 400
+    },
+    {
+      "SKU Number": 662187478845,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HD016VCR_Microwave_Motion_Sensor.pdf",
+      "__images": [],
+      "__row_number": 401
+    },
+    {
+      "SKU Number": 662187486642,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-RFL1-PHCB-3PIN-JL-200_Photocell.pdf",
+      "__images": [],
+      "__row_number": 402
+    },
+    {
+      "SKU Number": 662187486659,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-RFL1-PHC-3PIN-JL-207F_Photocell.pdf",
+      "__images": [],
+      "__row_number": 403
+    },
+    {
+      "SKU Number": 662187486246,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/High Mast/Hexacule High Mast/TDS/300 W/Hexacule_HML_297W_4000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 404
+    },
+    {
+      "SKU Number": 662187485423,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/High Mast/Hexacule High Mast/TDS/300 W/Hexacule_HML_297.2W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 405
+    },
+    {
+      "SKU Number": 662187477596,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/High Mast/Hexacule High Mast/TDS/600 W/Hexacule_HML_450W575W595.9W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 406
+    },
+    {
+      "SKU Number": 662187486239,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/High Mast/Hexacule High Mast/TDS/600 W/Hexacule_HML_450W575W595.9W_5700K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 407
+    },
+    {
+      "SKU Number": 662187486222,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/High Mast/Hexacule High Mast/TDS/600 W/Hexacule_HML_450W575W595.9W_4000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 408
+    },
+    {
+      "SKU Number": 662187486611,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-SP-20KV_Surge_Protection_20kV.pdf",
+      "__images": [],
+      "__row_number": 409
+    },
+    {
+      "SKU Number": 662187475509,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 410
+    },
+    {
+      "SKU Number": 662187553740,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 411
+    },
+    {
+      "SKU Number": 662187481104,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_4500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 412
+    },
+    {
+      "SKU Number": 662187465197,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 413
+    },
+    {
+      "SKU Number": 662187465241,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_3000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 414
+    },
+    {
+      "SKU Number": 662187465258,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_3500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 415
+    },
+    {
+      "SKU Number": 662187465272,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 416
+    },
+    {
+      "SKU Number": 662187481142,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_4500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 417
+    },
+    {
+      "SKU Number": 662187481166,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_6500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 418
+    },
+    {
+      "SKU Number": 662187465296,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 419
+    },
+    {
+      "SKU Number": 662187465302,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 420
+    },
+    {
+      "SKU Number": 662187465326,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/20 W/T8_Tube_Type_A&B_4FT_18W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 421
+    },
+    {
+      "SKU Number": 662187507613,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Amplin Gen2 Linear High Bay/TDS/Amplin_Gen2_LHB_75W100W150W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 422
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 423
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Panel%20Light/Back%20-%20Lit%20Panel%20Lights/Delphi%20Back-Lit%20Panel%20Lights/TDS/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 424
+    },
+    {
+      "SKU Number": 662187488882,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20AT/TDS/Delphi_AT(F)_1x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 425
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20AT/TDS/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 426
+    },
+    {
+      "SKU Number": 662187477312,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20AT/TDS/Delphi_AT(F)_2x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 427
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20RT/TDS/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 428
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20RT/TDS/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 429
+    },
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi%20RT/TDS/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 430
+    },
+    {
+      "SKU Number": 662187485867,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-R-RC106_Sensor%20Remote.pdf",
+      "__images": [],
+      "__row_number": 431
+    },
+    {
+      "SKU Number": 662187488097,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%202FT/TDS/T5_Tube_Type_B_2FT_9W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 432
+    },
+    {
+      "SKU Number": 662187488103,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%202FT/TDS/T5_Tube_Type_B_2FT_9W_FR_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 433
+    },
+    {
+      "SKU Number": 662187485348,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%204FT/TDS/15%20W/T5_Tube_Type_B_4FT_15.7W_CL_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 434
+    },
+    {
+      "SKU Number": 662187486390,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%204FT/TDS/15%20W/T5_Tube_Type_B_4FT_15.7W_CL_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 435
+    },
+    {
+      "SKU Number": 662187485355,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%204FT/TDS/24%20W/T5_Tube_Type_B_4FT_23.2W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 436
+    },
+    {
+      "SKU Number": 662187487069,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T5%20Tube%20Type%20B/T5%20Tube%20Type%20B%204FT/TDS/24%20W/T5_Tube_Type_B_4FT_23.2W_FR_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 437
+    },
+    {
+      "SKU Number": 662187485485,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/Sigma%20Gen2%20T8%20EM%20Tube%20Type%20B/TDS/SigmaGen2_T8_EM1_Tube_Type_B_15W_3500K4000K5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 438
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type%20B/T8%20Glass%20Tube%20Type%20B%20(CCT%20Selectable)/TDS/T8_Glass_Tube_Type%20B_42W_8FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 439
+    },
+    {
+      "SKU Number": 662187482835,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-8W-EMD_Emergency%20LED%20Driver.pdf",
+      "__images": [],
+      "__row_number": 440
+    },
+    {
+      "SKU Number": 662187488462,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear%20High%20Bay/Lior%20Linear%20High%20Bay/TDS/Lior_LHB_110W130W160W_TDS.pdf",
+      "__images": [],
+      "__row_number": 441
+    },
+    {
+      "SKU Number": 662187488356,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear%20High%20Bay/Lior%20Linear%20High%20Bay/TDS/Lior_LHB_With_Sensor_110W130W160W_TDS.pdf",
+      "__images": [],
+      "__row_number": 442
+    },
+    {
+      "SKU Number": 662187478005,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High%20Bays/Linear/Amplin%20Linear%20High%20Bay/TDS/Amplin_LHB_White_200W_5000K_100-277V_Dimmable_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 443
+    },
+    {
+      "SKU Number": 662187478029,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/High%20Bays/Linear/Amplin%20Linear%20High%20Bay/TDS/Amplin_LHB_White_300W_5000K_100-277V_Dimmable_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 444
+    },
+    {
+      "SKU Number": 662187507613,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear%20High%20Bay/Amplin%20Gen2%20Linear%20High%20Bay/TDS/Amplin_Gen2_LHB_75W100W150W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 445
+    },
+    {
+      "SKU Number": 662187482248,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Yard%20Light/Maxton%20Yard%20Light/TDS/Maxton_YL_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 446
+    },
+    {
+      "SKU Number": 662187482217,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-SHC-JL-208_Shorting%20Cap.pdf",
+      "__images": [],
+      "__row_number": 447
+    },
+    {
+      "SKU Number": 662187547091,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Smart Toucan AT/TDS/Smart_Toucan_AT_IOS_36W_2'x4'_4000K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 448
+    },
+    {
+      "SKU Number": 662187547084,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Smart Toucan AT/TDS/Smart_Toucan_AT_IOS_25W_2'x2'_4000K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 449
+    },
+    {
+      "SKU Number": 662187528298,
+      "Product URL": "https://ikioledlighting.com/documents/products/CPS Series/LED_Linear_Low_Bay_CPS_Series/Delphi_LLB_2'/Technical Data Sheet/Delphi_LLB_2'_TDS.pdf",
+      "__images": [],
+      "__row_number": 450
+    },
+    {
+      "SKU Number": 662187528304,
+      "Product URL": "https://ikioledlighting.com/documents/products/CPS Series/LED_Linear_Low_Bay_CPS_Series/Delphi_LLB_4'/Technical Data Sheet/Delphi_LLB_4'_TDS.pdf",
+      "__images": [],
+      "__row_number": 451
+    },
+    {
+      "SKU Number": 662187546995,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Wall Packs/Delphi Wall Pack Semi Cutoff/TDS/Delphi_WP_SC_72W100W114.8W_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 452
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/T8_Glass_Tube_Type B_42W_8FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 453
+    },
+    {
+      "SKU Number": 662187485348,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/T5_Tube_TypeB_15W_4000K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 454
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/T8_U-Bend_15W_TDS.pdf",
+      "__images": [],
+      "__row_number": 455
+    },
+    {
+      "SKU Number": 662187485485,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/T8_EM1_Tube_TypeB_15W_4ft_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 456
+    },
+    {
+      "SKU Number": 662187483962,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/Aimant_MRSK_24W-30W-40W_5000K_120-277V_PC_lens_2strip_TDS.pdf",
+      "__images": [],
+      "__row_number": 457
+    },
+    {
+      "SKU Number": 662187485355,
+      "Product URL": "https://ikioledlighting.com/documents/products/Quick Ship Products/T5_Tube_TypeB_24W_4000K_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 458
+    },
+    {
+      "SKU Number": 662187482064,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Canopy Lights/Delphi Fuel Pump Canopy/TDS/Delphi_FPCN_30W-40W-49.8W_120-347V_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 459
+    },
+    {
+      "SKU Number": 662187547572,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/T8_EM2_Tube_TypeB_15W_4ft_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 460
+    },
+    {
+      "SKU Number": 662187486246,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_297W_4000K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 461
+    },
+    {
+      "SKU Number": 662187485423,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_297.2W_5000K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 462
+    },
+    {
+      "SKU Number": 662187486253,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_297.4W_5700K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 463
+    },
+    {
+      "SKU Number": 662187486222,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_450W575W595.9W_4000K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 464
+    },
+    {
+      "SKU Number": 662187477596,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_450W575W595.9W_5000K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 465
+    },
+    {
+      "SKU Number": 662187486239,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Hexacule_HML_450W575W595.9W_5700K_277-480 V_TDS.pdf",
+      "__images": [],
+      "__row_number": 466
+    },
+    {
+      "SKU Number": 662187536101,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Vapor tight_20W30W39.8W_TDS.pdf",
+      "__images": [],
+      "__row_number": 467
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/8FT/TDS/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 468
+    },
+    {
+      "SKU Number": 662187487021,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/INX (Leland, NC) Lighting Bid/Lior_LHB_200W240W320W400W_TDS.pdf",
+      "__images": [],
+      "__row_number": 469
+    },
+    {
+      "SKU Number": 662187477305,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/McKinney ISD/Delphi_AT(F)_2x2_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 470
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 471
+    },
+    {
+      "SKU Number": 662187492667,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 472
+    },
+    {
+      "SKU Number": 662187507453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Only Link Provided/Pixel_High_End_Signage_Module_0.24W_TDS.pdf",
+      "__images": [],
+      "__row_number": 473
+    },
+    {
+      "SKU Number": 662187501642,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Dollar General Modules- Cross/Double_Side_High_End_Signage_Module_4.8W_TDS.pdf",
+      "__images": [],
+      "__row_number": 474
+    },
+    {
+      "SKU Number": 662187501635,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Dollar General Modules- Cross/Single_Side_High_End_Signage_Module_3W_TDS.pdf",
+      "__images": [],
+      "__row_number": 475
+    },
+    {
+      "SKU Number": 662187541921,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Emergency_Light_Square_Two_Head_Adjustable/Emergency_Light_Square_Two_Head_Adjustable_2.4W_TDS.pdf",
+      "__images": [],
+      "__row_number": 476
+    },
+    {
+      "SKU Number": 662187547008,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Wall%20Packs/Delphi%20Wall%20Pack%20Full%20Cutoff/TDS/Delphi_WP_FC_40W60W80W100W_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 477
+    },
+    {
+      "SKU Number": 662187475523,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Contrila_ELPL_2x2FT_120-277V_TDS.pdf",
+      "__images": [],
+      "__row_number": 478
+    },
+    {
+      "SKU Number": 662187547008,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/OCEAN CENTER PARKING GARAGE/Delphi_WP_FC_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 479
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/T8_Glass_Tube_Type B_42W_TDS.pdf",
+      "__images": [],
+      "__row_number": 480
+    },
+    {
+      "SKU Number": 662187487168,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/AEPA-Price  Sheet/Orion_Wraparound_Light_2FT_15W20W24W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 481
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 482
+    },
+    {
+      "SKU Number": 662187548043,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-LCS-HD407V-CR_IKIO_Smart_OS_w_DH_TDS.pdf",
+      "__images": [],
+      "__row_number": 483
+    },
+    {
+      "SKU Number": 662187554891,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lily/Spelta_CBRL_27W_4000K_DY_TDS.pdf",
+      "__images": [],
+      "__row_number": 484
+    },
+    {
+      "SKU Number": 662187558875,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/IK-10W-ED_ LED Emergency Driver.pdf",
+      "__images": [],
+      "__row_number": 485
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 486
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/T8_U_BEND_GLASS_TUBE_15W_CL_3000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 487
+    },
+    {
+      "SKU Number": 662187488189,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/T8_Tube_Type_B_4FT_10.5W_RF_TDS.pdf",
+      "__images": [],
+      "__row_number": 488
+    },
+    {
+      "SKU Number": 662187477473,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Delphi_Mini_WP_TDS.pdf",
+      "__images": [],
+      "__row_number": 489
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 490
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 491
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 492
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 493
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 494
+    },
+    {
+      "SKU Number": 662187489025,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/T8_Glass_Tube_Type_B_4FT_8.9W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 495
+    },
+    {
+      "SKU Number": 662187488547,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Lubbock ISD Cross (2)/J-Box_Downlight_10inch_27W34W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 496
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 497
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 498
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 499
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/T8_Glass_Tube_Type B_42W_8FT_TDS.pdf",
+      "__images": [],
+      "__row_number": 500
+    },
+    {
+      "SKU Number": 662187485355,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/T5_Tube_Type_B_4FT_23.2W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 501
+    },
+    {
+      "SKU Number": 662187487892,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Madison County-Envocore/T5_Tube_Type_B_4FT_15.7W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 502
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "http://ikioledlighting.com/documents/products/2023/Area Luminiares/Areon Area Luminaire/TDS/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 503
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Negawatt Partners/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 504
+    },
+    {
+      "SKU Number": 662187508191,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Negawatt Partners/Nevo_VTL_8FT_60W80W100W_30K35K40K45K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 505
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Negawatt Partners/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 506
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/NEW QUOTE REQUEST 207964/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 507
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Specs For US/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 508
+    },
+    {
+      "SKU Number": 662187477466,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Orwin_DL_6inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 509
+    },
+    {
+      "SKU Number": 662187507613,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Amplin_Gen2_LHB_75W100W150W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 510
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/T8_U_BEND_GLASS_TUBE_15W_CL_3000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 511
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Ace Corn Bulb 54W.pdf",
+      "__images": [],
+      "__row_number": 512
+    },
+    {
+      "SKU Number": 662187489025,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/T8_Glass_Tube_Type B_9W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 513
+    },
+    {
+      "SKU Number": 662187485027,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/T8_Glass_Tube_Type B_42W_TDS.pdf",
+      "__images": [],
+      "__row_number": 514
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 515
+    },
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 516
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 517
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 518
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 519
+    },
+    {
+      "SKU Number": 662187482477,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Areon_AL_Bronze_150W200W240W300W_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 520
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 521
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 522
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Wraparound_21W26W34W40W_4FT_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 523
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 524
+    },
+    {
+      "SKU Number": 662187541822,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Energy X/Orwin_DL_4inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 525
+    },
+    {
+      "SKU Number": 662187477473,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Industrial/Wall Packs/Delphi Mini Wall Pack/TDS/Delphi_Mini_WP_TDS.pdf",
+      "__images": [],
+      "__row_number": 526
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/OCEAN CENTER PARKING GARAGE/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 527
+    },
+    {
+      "SKU Number": 662187485485,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/Sigma Gen2 T8 EM Tube Type B/TDS/SigmaGen2_T8_EM1_Tube_Type_B_15W_3500K4000K5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 528
+    },
+    {
+      "SKU Number": 662187492667,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 529
+    },
+    {
+      "SKU Number": 662187482798,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Linear Low Bay/Apex Linear Low Bay/8FT/TDS/Apex_LLB_With_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 530
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 531
+    },
+    {
+      "SKU Number": 662187481265,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/T8_Tube_Type_B_2FT_9.2W_SF_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 532
+    },
+    {
+      "SKU Number": 662187485478,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/T8_U-Bend_Glass_Tube_Type B_TDS.pdf",
+      "__images": [],
+      "__row_number": 533
+    },
+    {
+      "SKU Number": 662187487069,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/T5_Tube_Type_B_4FT_23.2W_FR_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 534
+    },
+    {
+      "SKU Number": 662187485485,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/SigmaGen2_T8_EM1_Tube_Type_B_15W_3500K4000K5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 535
+    },
+    {
+      "SKU Number": 662187539614,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/T8_Tube_Type_B_4FT_15.2W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 536
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 537
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 538
+    },
+    {
+      "SKU Number": 662187482835,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/IK-ACC-8W-EMD_Emergency LED Driver.pdf",
+      "__images": [],
+      "__row_number": 539
+    },
+    {
+      "SKU Number": 662187486055,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Parchments School District/Edin_WP_SC_30W40W50W60W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 540
+    },
+    {
+      "SKU Number": 662187481265,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 2FT/TDS/T8_Tube_Type_B_2FT_9.2W_SF_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 541
+    },
+    {
+      "SKU Number": 662187485355,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T5 Tube Type B/T5 Tube Type B 4FT/TDS/24 W/T5_Tube_Type_B_4FT_23.2W_FR_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 542
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 543
+    },
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 544
+    },
+    {
+      "SKU Number": 662187477695,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.1W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 545
+    },
+    {
+      "SKU Number": 662187508900,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/San Jancinto/T8_Glass_Tube_Type B_14.5W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 546
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 547
+    },
+    {
+      "SKU Number": 662187486185,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_3000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 548
+    },
+    {
+      "SKU Number": 662187485386,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 549
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Fort Sill Bid (BAA Products)/10 Years Warranty/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 550
+    },
+    {
+      "SKU Number": 662187541822,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Specs 2026/Lamar County Schools/Orwin_DL_4inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 551
+    },
+    {
+      "SKU Number": 662187484259,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Specs 2026/Lamar County Schools/Delphi_RT(F)_1x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 552
+    },
+    {
+      "SKU Number": 662187484266,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Specs 2026/Lamar County Schools/Delphi_RT(F)_2x2_TDS.pdf",
+      "__images": [],
+      "__row_number": 553
+    },
+    {
+      "SKU Number": 662187484273,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Specs 2026/Lamar County Schools/Delphi_RT(F)_2x4_TDS.pdf",
+      "__images": [],
+      "__row_number": 554
+    },
+    {
+      "SKU Number": 662187508818,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Database/Delphi_FPCN_wIP_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 555
+    },
+    {
+      "SKU Number": 662187488882,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Commerical/Troffers/Delphi AT/TDS/Delphi_AT(F)_1x4_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 556
+    },
+    {
+      "SKU Number": 662187482248,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Yard Light/Maxton Yard Light/TDS/Maxton_YL_30W40W50W60W_TDS.pdf",
+      "__images": [],
+      "__row_number": 557
+    },
+    {
+      "SKU Number": 662187512624,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Visiolit_BL24_30W40W50W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 558
+    },
+    {
+      "SKU Number": 662187512617,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Visiolit_BL22_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 559
+    },
+    {
+      "SKU Number": 662187541822,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Specs 2026/Roman Catholic High School/Orwin_DL_4inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 560
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Energy X/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 561
+    },
+    {
+      "SKU Number": 662187528564,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Delphi_PL_1x4FT_403020W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 562
+    },
+    {
+      "SKU Number": 662187549422,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Lincoln Hills School/Delphi_PL_2x4FT_504030W_504035K_DLC_TDS.pdf",
+      "__images": [],
+      "__row_number": 563
+    },
+    {
+      "SKU Number": 662187482781,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Made to Order Products/Energy X/Apex_LLB_Without_Sensor_50W60W70W_TDS.pdf",
+      "__images": [],
+      "__row_number": 564
+    },
+    {
+      "SKU Number": 662187488547,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Public library/Round_Downlight_10inch_27W34W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 565
+    },
+    {
+      "SKU Number": 662187488547,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Simran Price Sheet/J-Box_Downlight_10inch_27W34W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 566
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Only Link Required/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 567
+    },
+    {
+      "SKU Number": 662187508993,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 568
+    },
+    {
+      "SKU Number": 662187509006,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 569
+    },
+    {
+      "SKU Number": 662187509013,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_4100K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 570
+    },
+    {
+      "SKU Number": 662187509020,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B/4FT/TDS/T8_Glass_Tube_Type B_9W_4FT_4500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 571
+    },
+    {
+      "SKU Number": 662187540641,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_3500K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 572
+    },
+    {
+      "SKU Number": 662187540634,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_4500K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 573
+    },
+    {
+      "SKU Number": 662187540610,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_5000K_CL_TDS.pdf",
+      "__images": [],
+      "__row_number": 574
+    },
+    {
+      "SKU Number": 662187533865,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_3000K_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 575
+    },
+    {
+      "SKU Number": 662187533902,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/TYPE C/T8 Tube Type C/TDS/T8_Tube_Type_C_4FT_15W_5000K_FR_TDS.pdf",
+      "__images": [],
+      "__row_number": 576
+    },
+    {
+      "SKU Number": 662187486154,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 2FT/TDS/T8_Tube_Type_B_2FT_9.2W_SF_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 577
+    },
+    {
+      "SKU Number": 662187481975,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 2FT/TDS/T8_Tube_Type_B_2FT_9.2W_SF_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 578
+    },
+    {
+      "SKU Number": 662187477688,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.1W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 579
+    },
+    {
+      "SKU Number": 662187539782,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.4W_3500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 580
+    },
+    {
+      "SKU Number": 662187539652,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/12W/T8_Tube_Type_B_4FT_12.4W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 581
+    },
+    {
+      "SKU Number": 662187539829,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15.2W_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 582
+    },
+    {
+      "SKU Number": 662187539836,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15.2W_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 583
+    },
+    {
+      "SKU Number": 662187539720,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15.2W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 584
+    },
+    {
+      "SKU Number": 662187539737,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15W_3500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 585
+    },
+    {
+      "SKU Number": 662187539928,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15W_4000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 586
+    },
+    {
+      "SKU Number": 662187539676,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/15W/T8_Tube_Type_B_4FT_15W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 587
+    },
+    {
+      "SKU Number": 662187539911,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18W_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 588
+    },
+    {
+      "SKU Number": 662187477701,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 589
+    },
+    {
+      "SKU Number": 662187539607,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18.4W_3000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 590
+    },
+    {
+      "SKU Number": 662187539799,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18.4W_3500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 591
+    },
+    {
+      "SKU Number": 662187539690,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18.4W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 592
+    },
+    {
+      "SKU Number": 662187484327,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-EMB08YY-050_ LED Emergency Driver.pdf",
+      "__images": [],
+      "__row_number": 593
+    },
+    {
+      "SKU Number": 662187487854,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-HD05R-Digital_Smart_Remote.pdf",
+      "__images": [],
+      "__row_number": 594
+    },
+    {
+      "SKU Number": 662187510583,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 595
+    },
+    {
+      "SKU Number": 662187510590,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 596
+    },
+    {
+      "SKU Number": 662187508900,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 597
+    },
+    {
+      "SKU Number": 662187510606,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_4100K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 598
+    },
+    {
+      "SKU Number": 662187510613,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_4500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 599
+    },
+    {
+      "SKU Number": 662187510620,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Glass Tube Type B (Built In Dimmer)/4FT/TDS/T8_Glass_Tube_Type B_DIM_14.5W_4FT_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 600
+    },
+    {
+      "SKU Number": 662187533247,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 601
+    },
+    {
+      "SKU Number": 662187533254,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 602
+    },
+    {
+      "SKU Number": 662187547763,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_5000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 603
+    },
+    {
+      "SKU Number": 662187533261,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_3000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 604
+    },
+    {
+      "SKU Number": 662187548388,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/14 W/T8_Tube_Type_A&B_4FT_14W_3500K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 605
+    },
+    {
+      "SKU Number": 662187465180,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_4000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 606
+    },
+    {
+      "SKU Number": 662187465234,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_5000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 607
+    },
+    {
+      "SKU Number": 662187465203,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_3000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 608
+    },
+    {
+      "SKU Number": 662187465210,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_3500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 609
+    },
+    {
+      "SKU Number": 662187465227,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_4000K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 610
+    },
+    {
+      "SKU Number": 662187465166,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type A&B/T8 Tube Type A&B/T8 Tube Type B_4FT/TDS/17 W/T8_Tube_Type_A&B_4FT_17W_3000K_SC_TDS.pdf",
+      "__images": [],
+      "__row_number": 611
+    },
+    {
+      "SKU Number": 662187488172,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/10W/T8_Tube_Type_B_4FT_RF_10.5W_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 612
+    },
+    {
+      "SKU Number": 662187488189,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/10W/T8_Tube_Type_B_4FT_RF_10.5W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 613
+    },
+    {
+      "SKU Number": 662187488196,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/10W/T8_Tube_Type_B_4FT_RF_10.5W_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 614
+    },
+    {
+      "SKU Number": 662187488219,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/12W/T8_Tube_Type_B_4FT_RF_11.5W_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 615
+    },
+    {
+      "SKU Number": 662187487533,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/12W/T8_Tube_Type_B_4FT_RF_11.5W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 616
+    },
+    {
+      "SKU Number": 662187487540,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/12W/T8_Tube_Type_B_4FT_RF_11.5W_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 617
+    },
+    {
+      "SKU Number": 662187488233,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/15W/T8_Tube_Type_B_4FT_RF_13.9W_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 618
+    },
+    {
+      "SKU Number": 662187488257,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/15W/T8_Tube_Type_B_4FT_RF_13.9W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 619
+    },
+    {
+      "SKU Number": 662187488264,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/15W/T8_Tube_Type_B_4FT_RF_13.9W_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 620
+    },
+    {
+      "SKU Number": 662187488288,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/18W/T8_Tube_Type_B_4FT_RF_17.8W_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 621
+    },
+    {
+      "SKU Number": 662187487557,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/18W/T8_Tube_Type_B_4FT_RF_17.8W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 622
+    },
+    {
+      "SKU Number": 662187487564,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/18W/T8_Tube_Type_B_4FT_RF_17.8W_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 623
+    },
+    {
+      "SKU Number": 662187488301,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/22W/T8_Tube_Type_B_4FT_RF_21.3W_3500K_TDS.pdf",
+      "__images": [],
+      "__row_number": 624
+    },
+    {
+      "SKU Number": 662187488318,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/22W/T8_Tube_Type_B_4FT_RF_21.3W_4000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 625
+    },
+    {
+      "SKU Number": 662187488325,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B (RF)/4FT/TDS/22W/T8_Tube_Type_B_4FT_RF_21.3W_5000K_TDS.pdf",
+      "__images": [],
+      "__row_number": 626
+    },
+    {
+      "SKU Number": 662187488462,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Linear High Bay/Lior Linear High Bay/TDS/Lior_LHB_110W130W160W_TDS.pdf",
+      "__images": [],
+      "__row_number": 627
+    },
+    {
+      "SKU Number": 662187487991,
+      "Product URL": "https://ikioledlighting.com/documents/products/Industrial/Area Luminaires/Locus Gen2 Area Luminaire/TDS/200W-240W-300W/LocusGen2_AL_Bronze_200W240W300W_5000K_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 628
+    },
+    {
+      "SKU Number": 662187486185,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_3000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 629
+    },
+    {
+      "SKU Number": 662187486208,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_4000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 630
+    },
+    {
+      "SKU Number": 662187485386,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_5000K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 631
+    },
+    {
+      "SKU Number": 662187486215,
+      "Product URL": "https://ikioledlighting.com/documents/products/2023/Street Light/Robus Cobra Street Light/TDS/Robus_CHSL_100W125W148.8W_5700K_HV_TDS.pdf",
+      "__images": [],
+      "__row_number": 632
+    },
+    {
+      "SKU Number": 662187486475,
+      "Product URL": "https://ikioledlighting.com/documents/products/Accessories/IK-ACC-PB-LT625_Photocell_Base.pdf",
+      "__images": [],
+      "__row_number": 633
+    },
+    {
+      "SKU Number": 662187539683,
+      "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Tubes/Type B/T8 Tube Type B/T8 Tube Type B 4FT/TDS/18W/T8_Tube_Type_B_4FT_18W_4500K_SF_TDS.pdf",
+      "__images": [],
+      "__row_number": 634
+    },
+    {
+      "SKU Number": 662187488479,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Sanitas Cape Coral Cross/Vapor_Tight_Light_TDS.pdf",
+      "__images": [],
+      "__row_number": 635
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 636
+    },
+    {
+      "SKU Number": 662187482453,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Areon_AL_Bronze_70W100W150_MV_TDS.pdf",
+      "__images": [],
+      "__row_number": 637
+    },
+    {
+      "SKU Number": 662187482187,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Magnus_AFL_100W150W205W_TDS.pdf",
+      "__images": [],
+      "__row_number": 638
+    },
+    {
+      "SKU Number": 662187508672,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Delphi_WP_FC_wIP_40W60W80W100W_TDS.pdf",
+      "__images": [],
+      "__row_number": 639
+    },
+    {
+      "SKU Number": 662187510736,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Apex_LLB_2FT_15W20W25W_TDS.pdf",
+      "__images": [],
+      "__row_number": 640
+    },
+    {
+      "SKU Number": 662187482255,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Upstar_UHB_100W150W200W240W_Black_TDS.pdf",
+      "__images": [],
+      "__row_number": 641
+    },
+    {
+      "SKU Number": 662187478876,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Novus_FL_TDS.pdf",
+      "__images": [],
+      "__row_number": 642
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 643
+    },
+    {
+      "SKU Number": 662187477459,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Orwin_DL_8inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 644
+    },
+    {
+      "SKU Number": 662187478753,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Shawnee/Orwin_DL_10inch_TDS.pdf",
+      "__images": [],
+      "__row_number": 645
+    },
+    {
+      "SKU Number": 662187510743,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Apex_LLB_4FT_20W30W40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 646
+    },
+    {
+      "SKU Number": 662187487786,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Nevo_VTL_4FT_20W30W40W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 647
+    },
+    {
+      "SKU Number": 662187486062,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Edin_WP_SC_70W85W100W120W_30K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 648
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Lineo_LHB_80W110W135W165W_TDS.pdf",
+      "__images": [],
+      "__row_number": 649
+    },
+    {
+      "SKU Number": 662187512945,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Oriled_Wraparound_21W26W34W40W_30K35K40K50K65K_TDS.pdf",
+      "__images": [],
+      "__row_number": 650
+    },
+    {
+      "SKU Number": 662187512600,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Visiolit_BL14_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 651
+    },
+    {
+      "SKU Number": 662187486079,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Operation Specs 2026/Shiloh Valley Elementary Lighting/Ove_Emergency_Mini_WP_13.4W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 652
+    },
+    {
+      "SKU Number": 662187512617,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Chesterton High School/Visiolit_BL22_20W30W40W_35K40K50K_TDS.pdf",
+      "__images": [],
+      "__row_number": 653
+    },
+    {
+      "SKU Number": 662187482354,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Providence Public School/Lineo Linear high Bay.pdf",
+      "__images": [],
+      "__row_number": 654
+    },
+    {
+      "SKU Number": 662187482439,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Suppliments For Lighting Supplies/Ace_CB_36W45W54W_TDS.pdf",
+      "__images": [],
+      "__row_number": 655
+    },
+    {
+      "SKU Number": 662187496375,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Tanishq Boston/Nova_DL_10W_TDS.pdf",
+      "__images": [],
+      "__row_number": 656
+    },
+    {
+      "SKU Number": 662187498003,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Tanishq Boston/Odin_DL_40W_TDS.pdf",
+      "__images": [],
+      "__row_number": 657
+    },
+    {
+      "SKU Number": 662187493923,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/US foods, chef store/Frizo_RFL_6FT_30W_5000K_DY_100-277V_CR_TDS.pdf",
+      "__images": [],
+      "__row_number": 658
+    },
+    {
+      "SKU Number": 662187540177,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/Accessories/IK-PHC-7PIN-AC100-277V_Photocell.pdf",
+      "__images": [],
+      "__row_number": 659
+    },
+    {
+      "SKU Number": 662187508474,
+      "Product URL": "https://ikioledlighting.com/documents/products/Made to Order Products/Verizon Quotes/IK-RTRANGTL-20W-304050K-WH-90C-38D.pdf",
+      "__images": [],
+      "__row_number": 660
+    },
+    {
+      "SKU Number": 662187507552,
+      "Product URL": "https://ikioledlighting.com/documents/products/Operation Database/Dynamo4_Pro_SFL_750W_5000K_MV_TDS (1).pdf",
+      "__images": [],
+      "__row_number": 661
+    },
+    {
+      "SKU Number": 662187507552,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Flood Light/Dynamo4 Pro Stadium Flood Light/TDS/30D/750W-1000W-1200W/Dynamo4_Pro_SFL_750W1000W1200W_5000K_MV_30D_TDS.pdf",
+      "__images": [],
+      "__row_number": 662
+    },
+    {
+      "SKU Number": 662187507569,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Flood Light/Dynamo4 Pro Stadium Flood Light/TDS/30D/750W-1000W-1200W/Dynamo4_Pro_SFL_750W1000W1200W_5000K_HV_30D_TDS.pdf",
+      "__images": [],
+      "__row_number": 663
+    },
+    {
+      "SKU Number": 662187511542,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Flood Light/Dynamo4 Pro Stadium Flood Light/TDS/30D/300W-400W-500W-600W/Dynamo4_Pro_SFL_300W400W500W600W_5000K_MV_30D_TDS.pdf",
+      "__images": [],
+      "__row_number": 664
+    },
+    {
+      "SKU Number": 662187511559,
+      "Product URL": "https://www.ikioledlighting.com/documents/products/2023/Flood Light/Dynamo4 Pro Stadium Flood Light/TDS/30D/300W-400W-500W-600W/Dynamo4_Pro_SFL_300W400W500W600W_5000K_HV_30D_TDS.pdf",
+      "__images": [],
+      "__row_number": 665
+    }
+  ]
+}

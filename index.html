@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SKU Finder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <p class="eyebrow">PRODUCT DATABASE</p>
+
+<h1>SKU Finder</h1>
+
+<p class="subtitle">
+    Search SKU numbers and instantly open the related product.
+</p>
+      <div id="recordCount" class="record-count">Loading…</div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="search-panel">
+      <label for="searchInput">Search SKU Number</label>
+      <div class="search-row">
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Enter SKU Number..."
+          autocomplete="off"
+          autofocus
+        >
+        <button id="clearButton" type="button">Clear</button>
+      </div>
+      <div class="search-meta">
+        <span id="statusText">Loading data…</span>
+        <span id="lastUpdated"></span>
+      </div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+  </main>
+
+  <template id="cardTemplate">
+    <article class="result-card">
+      <div class="image-wrap">
+        <img class="product-image" alt="" loading="lazy">
+        <div class="image-placeholder">No Image</div>
+      </div>
+      <div class="fields"></div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
