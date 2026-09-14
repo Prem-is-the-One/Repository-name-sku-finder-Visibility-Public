@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T19:19:58.898492+00:00",
+    "generated_at": "2026-09-14T19:20:35.293607+00:00",
     "source_file": "SKU Master.xlsx",
     "sheet": "Sheet1",
     "record_count": 650
   },
   "rows": [
     {
-      "SKU Number": 662187484273,
+      "SKU Number": "ABE",
       "Product URL": "https://ikioledlighting.com/documents/products/Commerical/Troffers/Delphi RT/TDS/Delphi_RT(F)_2x4_TDS.pdf",
       "__images": [],
       "__row_number": 2
