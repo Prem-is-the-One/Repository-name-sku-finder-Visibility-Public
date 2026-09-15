@@ -1,0 +1,14 @@
+worker.js
+wrangler.jsonc
+functions/
+tools/
+.venv/
+.git/
+.gitignore
+settings.json
+settings.example.json
+requirements.txt
+README.md
+start-local-server.bat
+start-excel-sync.bat
+__pycache__/
