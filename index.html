@@ -3,55 +3,120 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SKU Finder</title>
+  <meta name="theme-color" content="#111111">
+  <meta name="description" content="Search the IKIO product database by SKU number and open the related product document instantly.">
+  <title>IKIO SKU Finder</title>
+
+  <!-- Premium typography. Falls back to system fonts if Google Fonts is unavailable. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="page-glow page-glow-one" aria-hidden="true"></div>
+  <div class="page-glow page-glow-two" aria-hidden="true"></div>
+
   <header class="site-header">
-    <div class="header-inner">
-      <div>
-        <p class="eyebrow">PRODUCT DATABASE</p>
+    <div class="nav-shell">
+      <img
+  class="brand-logo"
+  src="assets/ikio-logo.svg"
+  alt="IKIO"
+>
+      </a>
 
-<h1>SKU Finder</h1>
-
-<p class="subtitle">
-    Search SKU numbers and instantly open the related product.
-</p>
-      <div id="recordCount" class="record-count">Loading…</div>
+      <div class="live-badge" title="Database generated from your Excel source">
+        <span class="live-dot" aria-hidden="true"></span>
+        Live Product Database
+      </div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="search-panel">
-      <label for="searchInput">Search SKU Number</label>
-      <div class="search-row">
-        <input
-          id="searchInput"
-          type="search"
-          placeholder="Enter SKU Number..."
-          autocomplete="off"
-          autofocus
-        >
-        <button id="clearButton" type="button">Clear</button>
-      </div>
-      <div class="search-meta">
-        <span id="statusText">Loading data…</span>
-        <span id="lastUpdated"></span>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-shell">
+        <div class="hero-copy">
+          <p class="eyebrow">SKU LOOKUP · PRODUCT DOCUMENTS</p>
+          <h1>Find the right product.<br><span>Instantly.</span></h1>
+          <p class="hero-subtitle">
+            Search IKIO SKU numbers and open the related product document in seconds.
+          </p>
+        </div>
+
+        <div class="hero-stats" aria-label="Database summary">
+          <div class="stat-card">
+            <span class="stat-label">Products Indexed</span>
+            <strong id="recordCount" class="stat-value">—</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Source</span>
+            <strong class="stat-value stat-value-small">Excel Sync</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Search</span>
+            <strong class="stat-value stat-value-small">Instant</strong>
+          </div>
+        </div>
+
+        <section class="search-panel" aria-label="SKU search">
+          <label for="searchInput" class="search-label">Search SKU Number</label>
+
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/>
+            </svg>
+
+            <input
+              id="searchInput"
+              type="search"
+              inputmode="numeric"
+              placeholder="Enter SKU number, e.g. 662187482354"
+              autocomplete="off"
+              spellcheck="false"
+              autofocus
+            >
+
+            <button id="clearButton" class="clear-button" type="button" aria-label="Clear SKU search">
+              Clear
+            </button>
+          </div>
+
+          <div class="search-meta">
+            <span id="statusText">Loading product database…</span>
+            <span id="lastUpdated"></span>
+          </div>
+
+          <div class="keyboard-hint" aria-hidden="true">
+            <span><kbd>/</kbd> Focus search</span>
+            <span><kbd>Esc</kbd> Clear</span>
+          </div>
+        </section>
       </div>
     </section>
 
-    <section id="results" class="results" aria-live="polite"></section>
+    <section class="results-section">
+      <div class="content-shell">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">PRODUCT DIRECTORY</p>
+            <h2>Matching Products</h2>
+          </div>
+          <p class="section-note">Open product documents in a new tab.</p>
+        </div>
+
+        <section id="results" class="results" aria-live="polite" aria-busy="true"></section>
+      </div>
+    </section>
   </main>
 
-  <template id="cardTemplate">
-    <article class="result-card">
-      <div class="image-wrap">
-        <img class="product-image" alt="" loading="lazy">
-        <div class="image-placeholder">No Image</div>
-      </div>
-      <div class="fields"></div>
-    </article>
-  </template>
+  <footer class="site-footer">
+    <div class="content-shell footer-inner">
+      <p>IKIO Product Intelligence</p>
+      <p>SKU data updates automatically from the connected Excel workbook.</p>
+    </div>
+  </footer>
 
   <script src="app.js"></script>
 </body>
